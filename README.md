@@ -1,1 +1,1 @@
-# Proyectos-para-principiantes-Lenguajes-Scripting-
+# Proyectos para principiantes (Lenguajes Scripting)
