@@ -1,2 +1,2 @@
-# Proyectos para principiantes (Lenguajes Scripting)
+# Lenguajes de Scripting (aprender con proyectos)
 Esto es una serie de proyectos para aprender Scripting con Bash y PowerShell...
