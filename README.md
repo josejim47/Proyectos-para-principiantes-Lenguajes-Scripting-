@@ -47,5 +47,5 @@ Explicación exautiva
 Una vez que hayas personalizado la ruta del directorio que deseas respaldar, puedes guardar este código en un archivo con extensión `.sh`, otorgarle permisos de ejecución y luego ejecutarlo para crear el respaldo del directorio especificado y comprimirlo en un archivo tar.gz.
 
 - Task
- - Escribe un script que cree una copia de respaldo de un directorio especificado.
- - Puedes añadir la funcionalidad de comprimir los archivos en un archivo tar.gz.
+  - Escribe un script que cree una copia de respaldo de un directorio especificado.
+  - Puedes añadir la funcionalidad de comprimir los archivos en un archivo tar.gz.
