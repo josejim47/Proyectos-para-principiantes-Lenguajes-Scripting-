@@ -50,3 +50,4 @@ Una vez que hayas personalizado la ruta del directorio que deseas respaldar, pue
   - Escribe un script que cree una copia de respaldo de un directorio especificado.
   - Puedes añadir la funcionalidad de comprimir los archivos en un archivo tar.gz.
 
+ 
