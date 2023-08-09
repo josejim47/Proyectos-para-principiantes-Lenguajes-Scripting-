@@ -1,8 +1,8 @@
 ## Aprende lenguajes de Scripting con proyectos
 - Estos son una serie de proyectos diseñados para aprender Scripting utilizando Bash, PowerShell y JavaScript
 
-##### 1. Creación de un directorio de respaldo
-###### Bash_lang
+#### 1. Creación de un directorio de respaldo
+##### Bash_lang
 Puedes lograr esto en Bash o Zsh utilizando comandos y herramientas disponibles en sistemas Unix. Aquí tienes un ejemplo de cómo podrías crear un script para respaldar un directorio y comprimir los archivos en un archivo tar.gz:
 
 ---
